@@ -1,1 +1,7 @@
-# Caso_Practico_Excel
+# Caso Practico Excel
+
+## Introduccion
+
+## Objetivo del Analisis
+
+## Resultado del analisis
