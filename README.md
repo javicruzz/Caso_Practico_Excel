@@ -7,3 +7,6 @@ Aplicaremos  y daremos uso a funciones que hemos usado en dos desiones pasadas, 
 ## Resultado del analisis
 Como resultado de este analisis pudimos ver y mostras los datos de manera adecuada para que unos posibles terceros puedan interpretar los datos de mejor manera.
 Tambien interpretamos los datos de mejor manera para un analisis adecuado, supimos darle un mejor ajuste a los datos como se los mostrare en el documento adjunto.
+
+
+![Captura de pantalla 2024-07-25 155650](https://github.com/user-attachments/assets/3d5e1509-eaab-410f-a573-3064d106c507)
